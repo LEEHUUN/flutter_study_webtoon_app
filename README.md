@@ -1,6 +1,9 @@
 # WEBTOON APP
 
-## 노마드 코더 강의 : Flutter로 웹툰 앱 만들기 #6 WEBTOON APP 실습 repo. <br /> <br />
+## 노마드 코더 강의 : Flutter로 웹툰 앱 만들기 #6 WEBTOON APP 실습 repo.
+
+https://nomadcoders.co/flutter-for-beginners/lectures/4162
+<br /> <br />
 
 ### rfc
 
@@ -29,3 +32,10 @@
 - npm 과의 차이점: pubspec.yaml file에 패키지 타이핑 후 저장만 해도 설치됨.
 - Futer type: 미래에 받을 type. 비동기 프로그래밍에서 많이 사용.
 - today api sample 제작.
+  <br/><br/>
+
+### 3. fromJson (학습일자: 23.03.05)
+
+- today api model 추가.
+- model fromJson constructor 구현.
+- api 가 `Future<List<WebtoonModel>>`를 return 하도록 수정.
