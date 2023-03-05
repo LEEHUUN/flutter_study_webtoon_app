@@ -50,3 +50,11 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 
 - api model static class으로 변경.
 - HomeScreen statefullWedget으로 변경 및 webtoon data fetching 적용.
+  <br/><br/>
+
+### 6. FutureBuilder (학습일자: 23.03.05)
+
+- stateLessWedget에서 data fetch하도록 변경.
+- Future type으로 객체 지향과 함수 지향이 잘 섞였다고 생각됨. comp의 생명주기를 편하게 관리 할 수 있을듯.
+- FutureBuilder: flutter에서 지원하는 lazy loading comp 라고 생각하면 편할듯.
+- FutureBuilder의 snapshot으로 로딩 전/후 상태 체크해 비즈니스 로직 구현.
