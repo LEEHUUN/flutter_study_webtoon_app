@@ -44,3 +44,9 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 ### 4. recap (학습일자: 23.03.05)
 
 - 1, 2, 3강 내용 복습.
+  <br/><br/>
+
+### 5. waitForWebToons (학습일자: 23.03.05)
+
+- api model static class으로 변경.
+- HomeScreen statefullWedget으로 변경 및 webtoon data fetching 적용.
