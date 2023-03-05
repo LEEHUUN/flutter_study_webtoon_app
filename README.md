@@ -56,5 +56,17 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 
 - stateLessWedget에서 data fetch하도록 변경.
 - Future type으로 객체 지향과 함수 지향이 잘 섞였다고 생각됨. comp의 생명주기를 편하게 관리 할 수 있을듯.
-- FutureBuilder: flutter에서 지원하는 lazy loading comp 라고 생각하면 편할듯.
+- FutureBuilder: flutter에서 지원하는 after loading comp 라고 생각하면 편할듯.
 - FutureBuilder의 snapshot으로 로딩 전/후 상태 체크해 비즈니스 로직 구현.
+  <br /><br />
+
+### 7. ListView (학습일자: 23.03.05)
+
+- 값에 null이 없다는 것을 명시해줄땐 ! 기호 사용.
+  ```dart
+  for(var webtoon in sanpshot.data!)
+  ```
+- ListView
+  - 기본적으로 scrollView 장착.
+  - 사용시 최적화 필요.(ex. lazy loading, infinite scroll)
+- ListView.seperated: 최적화시 주로 사용하는 ListView.
