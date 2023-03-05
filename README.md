@@ -39,3 +39,8 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 - today api model 추가.
 - model fromJson constructor 구현.
 - api 가 `Future<List<WebtoonModel>>`를 return 하도록 수정.
+  <br /><br />
+
+### 4. recap (학습일자: 23.03.05)
+
+- 1, 2, 3강 내용 복습.
