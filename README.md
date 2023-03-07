@@ -70,3 +70,9 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
   - 기본적으로 scrollView 장착.
   - 사용시 최적화 필요.(ex. lazy loading, infinite scroll)
 - ListView.seperated: 최적화시 주로 사용하는 ListView.
+  <br /><br/>
+
+### 8. Webtoon Card (학습일자: 23.03.07)
+
+- ListView에는 지정된 높이값이 없기 때문에, Column Widget 사용시 Expanded Widget으로 감싸주어야함.
+- Webtoon Card widget custom.
