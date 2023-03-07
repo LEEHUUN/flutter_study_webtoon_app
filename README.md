@@ -76,3 +76,11 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 
 - ListView에는 지정된 높이값이 없기 때문에, Column Widget 사용시 Expanded Widget으로 감싸주어야함.
 - Webtoon Card widget custom.
+  <br/><br/>
+
+### 9. Detail Screen (학습일자: 23.03.07)
+
+- Webtoon Widget 분리.
+- GestureDetector: widget에 인터렉션 이벤트를 정의하고 싶을때 사용.
+- Navigator.push: page route.
+- MaterialPageRout: route를 dialog로 할지, page로 할지 옵션 제공.
