@@ -100,3 +100,9 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 
 - WebtoonDetailModel, WebtoonEpisodeModel 추가.
 - WebtoonDetail, WebtoonEpisode api 추가.
+  <br/><br/>
+
+### 13. Futures (학습일자: 23.03.08)
+
+- statefull class의 widget은 parent의 state에 접근 가능하게 해줌.
+- statefull widget에서의 data fetching: initState에서 parent의 state를 가져와 late를 이용해 date fetching.
