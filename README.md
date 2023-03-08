@@ -89,3 +89,8 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 ### 10. Hero (학습일자: 23.03.08)
 
 - Hero widget: 같은 comp를 여러 page에서 사용하고 싶을때 이용.
+  <br/><br/>
+
+### 11. Recap (학습일자: 23.03.08)
+
+- 5 ~ 10강 복습.
