@@ -94,3 +94,9 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 ### 11. Recap (학습일자: 23.03.08)
 
 - 5 ~ 10강 복습.
+  <br/> <br/>
+
+### 12. ApiService (학습일자: 23.03.08)
+
+- WebtoonDetailModel, WebtoonEpisodeModel 추가.
+- WebtoonDetail, WebtoonEpisode api 추가.
