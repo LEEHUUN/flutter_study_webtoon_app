@@ -84,3 +84,8 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 - GestureDetector: widget에 인터렉션 이벤트를 정의하고 싶을때 사용.
 - Navigator.push: page route.
 - MaterialPageRout: route를 dialog로 할지, page로 할지 옵션 제공.
+  <br /><br />
+
+### 10. Hero (학습일자: 23.03.08)
+
+- Hero widget: 같은 comp를 여러 page에서 사용하고 싶을때 이용.
