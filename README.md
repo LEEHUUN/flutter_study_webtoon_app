@@ -123,3 +123,9 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 - url_launcher: 외부 url을 브라우져로 실행 할 수 있는 package.
 - episode widget 분리.
 - episode widget gesture event 구현.
+  <br/> <br/>
+
+### 17. Favorites (학습일자: 23.03.12)
+
+- shared_preference: 기기의 storage에 접근 할 수 있는 package.
+- shared_preference를 이용한 좋아요 기능 개발.
