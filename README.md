@@ -111,3 +111,8 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 ### 14. Detail Info (학습일자: 23.03.08)
 
 - FutureBuild로 detail data response 완료시 상세 정보 랜더링.
+  <br /><br/>
+
+### 15. Episodes (학습일자: 23.03.12)
+
+- 최근 목차 futurBuild widget 구현.
