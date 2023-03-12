@@ -116,3 +116,10 @@ https://nomadcoders.co/flutter-for-beginners/lectures/4162
 ### 15. Episodes (학습일자: 23.03.12)
 
 - 최근 목차 futurBuild widget 구현.
+  <br/><br/>
+
+### 16. Url Launcher (학습일자: 23.03.12)
+
+- url_launcher: 외부 url을 브라우져로 실행 할 수 있는 package.
+- episode widget 분리.
+- episode widget gesture event 구현.
